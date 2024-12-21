@@ -38,7 +38,7 @@
       </li>
       @else
       <div class="sidebar-brand">
-        <a href="{{ route('anggota.dashboard.index') }}">Stisla</a>
+        <a href="{{ route('anggota.dashboard.index') }}">Amir</a>
       </div>
       <div class="sidebar-brand sidebar-brand-sm">
         <a href="{{ route('anggota.dashboard.index') }}">St</a>
