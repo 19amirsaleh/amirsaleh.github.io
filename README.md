@@ -87,7 +87,7 @@ Silahkan request melalui kolom `Pull Requests` jika ingin melakukan kontribusi
 
 ### Pembuat
 
--   **Amirudin Saleh** - _Programmer_ -(https://github.com/amirsaleh.github.io)
+-   **Amirudin Saleh** - _Programmer_ -https://github.com/19amirsaleh/amirsaleh.github.io/
 
 ### Lisensi
 
