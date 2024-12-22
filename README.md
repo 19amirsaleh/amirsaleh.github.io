@@ -20,35 +20,14 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didala
 -   CRUD Buku
 -   Informasi peminjaman dari pengguna
 
-### Preview Gambar
 
-_Tampilan Login_
-![Image 1](https://i.imgur.com/YsR6xWS.png)
-
-_Dashboard_
-![Image 2](https://i.imgur.com/IOgIyIi.png)
-
-_Daftar Pengguna_
-![Image 3](https://i.imgur.com/e3rkQ45.png)
-
-_Daftar Kategori Buku_
-![Image 4](https://i.imgur.com/WVEAyKi.png)
-
-_Daftar Buku_
-![Image 5](https://i.imgur.com/3Jarbbv.png)
-
-_Daftar Peminjam Buku_
-![Image 5](https://i.imgur.com/4z18siI.png)
-
-_Histori Peminjam Buku_
-![Image 5](https://i.imgur.com/nzqiVSv.png)
 
 ### Langkah-langkah instalasi
 
 -   Clone repository ini
 
 ```
-https://github.com/mrizkimaulidan/perpusweb.git
+https://github.com/amirsaleh.github.io/perpusweb.git
 ```
 
 ```
@@ -108,7 +87,7 @@ Silahkan request melalui kolom `Pull Requests` jika ingin melakukan kontribusi
 
 ### Pembuat
 
--   **Muhammad Rizki Maulidan** - _Programmer_ - [mrizkimaulidan](https://github.com/mrizkimaulidan)
+-   **Amirudin Saleh** - _Programmer_ -(https://github.com/amirsaleh.github.io)
 
 ### Lisensi
 
