@@ -22,7 +22,7 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didala
 
 ### Preview Gambar
 _Tampilan Login_
-
+https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/home.png?raw=true
 
 ### Langkah-langkah instalasi
 
