@@ -20,7 +20,9 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didala
 -   CRUD Buku
 -   Informasi peminjaman dari pengguna
 
-
+### Preview Gambar
+_Tampilan Login_
+![Image 1](https://i.imgur.com/YsR6xWS.png)
 
 ### Langkah-langkah instalasi
 
