@@ -31,7 +31,7 @@ https://github.com/amirsaleh.github.io/perpusweb.git
 ```
 
 ```
-git@github.com:mrizkimaulidan/perpusweb.git
+git@github.com:amirsaleh.github.io/perpusweb.git
 ```
 
 -   Install seluruh packages yang dibutuhkan
