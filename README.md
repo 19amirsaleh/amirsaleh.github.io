@@ -28,7 +28,7 @@ _Daftar Pinjaman Buku_
 ![Tampilan Daftar Pinjaman Buku](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Pinjaman_Buku.png?raw=true)
 
 _Tampilan Histori Pinjaman Buku_
-![Tampilan Histori Pinjaman (Buku]https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Histori_pinjaman_buku.png?raw=true)
+![Tampilan Histori Pinjaman Buku](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Histori_pinjaman_buku.png?raw=true)
 
 ### Langkah-langkah instalasi
 
