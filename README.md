@@ -2,7 +2,6 @@
 
 Aplikasi inventaris barang sekolah menggunakan Framework Laravel 5.8. Aplikasi ini cocok untuk digunakan untuk disekolah atau umum. Aplikasi ini memiliki 3 role, yaitu _Administrator Perpustakaan_, _Operator Perpustakaan_ dan _Anggota Perpustakaan_. Beberapa CRUD menggunakan AJAX untuk pengambilan data agar mengurangi penggunaan pindah halaman.
 
-### Prasyarat
 
 ### Fitur
 
@@ -18,6 +17,9 @@ _Tampilan Login_
 
 _Tampilan Home_
 ![Tampilan Home](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/home.png?raw=true)
+
+_Tampilan Kategori Buku_
+![Tampilan Home](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Kategori_Buku.png?raw=true).
 
 ### Langkah-langkah instalasi
 
