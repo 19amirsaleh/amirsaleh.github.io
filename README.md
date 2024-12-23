@@ -12,7 +12,11 @@ Aplikasi inventaris barang sekolah menggunakan Framework Laravel 5.8. Aplikasi i
 -   Informasi peminjaman dari pengguna
 
 ### Preview Gambar
-_Tampilan Home
+
+_Tampilan Login_
+![Tampilan Login](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Tampilan_login.png?raw=true)
+
+_Tampilan Home_
 ![Tampilan Home](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/home.png?raw=true)
 
 ### Langkah-langkah instalasi
