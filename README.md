@@ -19,10 +19,10 @@ _Tampilan Home_
 ![Tampilan Home](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/home.png?raw=true)
 
 _Tampilan Kategori Buku_
-![Tampilan Home](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Kategori_Buku.png?raw=true).
+![Tampilan Home](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Kategori_Buku.png?raw=true)
 
 _Daftar Buku_
-![Tampilan Daftar Buku](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Daftar_Buku.png?raw=true).
+![Tampilan Daftar Buku](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Daftar_Buku.png?raw=true)
 
 _Daftar Pinjaman Buku_
 ![Tampilan Daftar Pinjaman Buku](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Pinjaman_Buku.png?raw=true)
