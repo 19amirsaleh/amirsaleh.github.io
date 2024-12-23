@@ -1,6 +1,6 @@
 # Inven BS
 
-Aplikasi inventaris barang sekolah menggunakan Framework Laravel 5.8. Aplikasi ini cocok untuk digunakan untuk disekolah atau umum. Aplikasi ini memiliki 3 role, yaitu _Administrator Perpustakaan_, _Operator Perpustakaan_ dan _Anggota Perpustakaan_. Beberapa CRUD menggunakan AJAX untuk pengambilan data agar mengurangi penggunaan pindah halaman.
+Aplikasi inventaris barang sekolah menggunakan Framework Laravel 11 Aplikasi ini cocok untuk digunakan untuk disekolah atau umum. Aplikasi ini memiliki 3 role, yaitu _Administrator Perpustakaan_, _Operator Perpustakaan_ dan _Anggota Perpustakaan_. Beberapa CRUD menggunakan AJAX untuk pengambilan data agar mengurangi penggunaan pindah halaman.
 
 
 ### Fitur
@@ -41,12 +41,9 @@ _Tampilan histori Pinjmaman buku_
 -   Clone repository ini
 
 ```
-https://github.com/amirsaleh.github.io/perpusweb.git
+https://github.com/19amirsaleh/amirsaleh.github.io
 ```
 
-```
-github.com:amirsaleh.github.io/perpusweb.git
-```
 
 -   Install seluruh packages yang dibutuhkan
 
@@ -101,7 +98,7 @@ Silahkan request melalui kolom `Pull Requests` jika ingin melakukan kontribusi
 
 ### Pembuat
 
--   **Amirudin Saleh** - _Programmer_ -https://github.com/19amirsaleh/amirsaleh.github.io/
+-   **Amirudin Saleh** - _Programmer_ https://github.com/19amirsaleh/amirsaleh.github.io
 
 ### Lisensi
 
@@ -109,6 +106,6 @@ Aplikasi ini boleh untuk dibagi dan diubah. Mohon tidak untuk diperjualbelikan!
 
 ### Ucapan terima kasih
 
--   Stackoverflow
+-   chatgpt
 -   Google
 
