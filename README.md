@@ -30,6 +30,12 @@ _Daftar Pinjaman Buku_
 _Tampilan Histori Pinjaman Buku_
 ![Tampilan Histori Pinjaman Buku](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Histori_pinjaman_buku.png?raw=true)
 
+_Tampilan Home Siswa_
+![Tampilan Home Siswa](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Tampilan_Home_Siswa.png?raw=true)
+
+_Tampilan histori Pinjmaman buku_
+![Tampilan histori Pinjmaman buku](https://github.com/19amirsaleh/amirsaleh.github.io/blob/main/public/assets/images/Tampilan_histori_Pinjmaman_buku.png?raw=true)
+
 ### Langkah-langkah instalasi
 
 -   Clone repository ini
